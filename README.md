@@ -180,6 +180,6 @@ const crystal = {
 
 *"Technology should not just solve problems — it should inspire hope."* 💜
 
-**Crystal Kanana · Strathmore University ICS 4A · Nairobi, Kenya**
+**Crystal Kanana .**
 
 </div>

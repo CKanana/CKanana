@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Crystal%20Kanana&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Student%20%40%20Strathmore&descSize=16&descAlignY=58&descColor=C9B8FF" />
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C97EFF&center=true&vCenter=true&width=600&lines=Building+tools+that+empower+communities+💜;Full-Stack+Developer+%7C+React+%7C+Node.js;AI+%2B+Web+Dev+%7C+Human-Centered+Design;SDC+Vice+President+%7C+Strathmore+ICS+4A" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C97EFF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Building+tools+that+empower+communities+%F0%9F%92%9C;Full-Stack+Developer+%7C+React+%7C+Node.js;AI+%2B+Web+Dev+%7C+Human-Centered+Design;SDC+Vice+President+%7C+Strathmore+ICS+4A" alt="Typing SVG" />
 
 <br/>
 
@@ -150,7 +148,7 @@ const crystal = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CKanana&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C97EFF&icon_color=C97EFF&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CKanana&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C97EFF&icon_color=C97EFF" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CKanana&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C97EFF&langs_count=8" height="170" />
 </div>
 
@@ -180,6 +178,6 @@ const crystal = {
 
 *"Technology should not just solve problems — it should inspire hope."* 💜
 
-**Crystal Kanana .**
+**Crystal Kanana · Nairobi, Kenya**
 
 </div>
